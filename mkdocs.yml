@@ -1,0 +1,10 @@
+site_name: My Docs
+theme:
+  name: material
+  custom_dir: overrides
+plugins:
+  - search
+  - ezlinks
+  - embed_file
+extra_css:
+    - assets/css/embed_link.css
