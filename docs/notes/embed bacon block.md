@@ -10,4 +10,5 @@ after md embed block
 
 ![[bacon#^55afd6]]
 
+<i class="fa-solid fa-user"></i>
 after wiki embed block

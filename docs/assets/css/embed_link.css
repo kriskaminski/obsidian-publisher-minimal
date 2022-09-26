@@ -1,3 +1,7 @@
+h2 {
+  color:red !important;
+}
+
 .not_found {
   background-color: rgba(211, 211, 211, 0.521);
   display: inline-block;
@@ -6,6 +10,8 @@
   padding-right: 3px;
   padding-left: 3px;
 }
+
+
 
 [data-md-color-scheme="slate"] .not_found {
   color: rgb(182, 181, 181) !important;

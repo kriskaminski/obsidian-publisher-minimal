@@ -4,7 +4,9 @@ theme:
   custom_dir: overrides
 plugins:
   - search
-  - ezlinks
+  # - ezlinks
+  - ezlinks:
+      wikilinks: true
   - embed_file
 extra_css:
     - assets/css/embed_link.css
